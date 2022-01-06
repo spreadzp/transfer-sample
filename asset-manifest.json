@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transfer-sample/static/css/main.c0433452.css",
+    "main.js": "/transfer-sample/static/js/main.43d5c10e.js",
+    "index.html": "/transfer-sample/index.html",
+    "main.c0433452.css.map": "/transfer-sample/static/css/main.c0433452.css.map",
+    "main.43d5c10e.js.map": "/transfer-sample/static/js/main.43d5c10e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0433452.css",
+    "static/js/main.43d5c10e.js"
+  ]
+}
